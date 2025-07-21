@@ -9,7 +9,7 @@
 - 🌱 Learning: **LangChain**, **Azure Maps API**, **Spring Security**.
 - 🤝 Looking to collaborate on an **AI-Powered Recruitment Bot**.
 - 🧠 Seeking help with **Player Re-Identification using DeepSORT + YOLOv11**.
-- 💬 Ask me about: **React**, **Vue**, **GSAP**, **Spring Boot**, **LangChain**, and **Java Backend Dev**.
+- 💬 Ask me about: **React**,**Node**,**Java**, **Spring Boot**, **LangChain**, and **Java Backend Dev**.
 
 ---
 
